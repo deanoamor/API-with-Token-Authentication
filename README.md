@@ -9,7 +9,7 @@
 
 ## About Project
 
-This project was created as a condition for the internship selection. Api with authentication token, created in laravel.
+Projects as portfolios. API with token as authentication.Made using laravel.
 
 ## About Laravel
 
