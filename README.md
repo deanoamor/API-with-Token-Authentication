@@ -9,7 +9,7 @@
 
 ## About Project
 
-Projects as portfolios. API with token as authentication. Made using laravel.
+Projects as portfolios. Rest API with token as authentication. Made using laravel.
 
 ## About Laravel
 
